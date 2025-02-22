@@ -1,5 +1,7 @@
 """
 Python Script that controls and LED using the ldr
+This code script turns ON or OFF the led based on a set light treshold
+
 """
 
 from machine import Pin, ADC
